@@ -1,0 +1,52 @@
+# Docker volumes
+docker/
+
+# Git
+.git
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Project specific
+gofly.sock
+install.lock
+
+# Documentation
+*.md
+LICENSE
+
+# Development scripts
+*.sh
+*.bat
+
+# Test files
+test/
+tests/
+
+# Dependencies
+vendor/
+
+# Environment files
+.env
+*.env
+.env.*
+

@@ -1,2 +1,4 @@
 .idea
 imaptool.exe
+docker/gofly.tar
+docker/volumes/

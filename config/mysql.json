@@ -1,7 +1,7 @@
 {
-	"Server":"8.138.99.112",
+	"Server":"218.13.140.8",
 	"Port":"3306",
-	"Database":"go-fly",
-	"Username":"go-fly",
-	"Password":"8Ck6m3Kc4jrSdjFp"
+	"Database":"kefu_test",
+	"Username":"kefu_test",
+	"Password":"NwKd7k48LNiYAw6A"
 }
